@@ -3,4 +3,4 @@ I have implemented most of the things correctly, as per the instructions
 
 ![Example Image](please-see/Screenshot.png "Example Image")
 
-I tried my best to do the assignment and I am enjoying the journey of Summer of Bitcoin.
+I tried my best to do the assignment, I am enjoying the journey of Summer of Bitcoin.
